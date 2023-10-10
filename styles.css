@@ -25,6 +25,9 @@
     margin-bottom: 12px;
   }
   figure.main-image {
+    background: palevioletred;
+    border:mediumvioletred;
+    color: #ffffff;
 
   }
   figure.section-image {
