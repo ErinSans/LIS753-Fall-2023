@@ -37,6 +37,14 @@
     max-width: 320px
   }
 
+  figure.section-image.odd {
+    float: right;
+  }
+
+  figure.section-image.even {
+    float: left
+  }
+
   p img{
     float: right;
     max-width: 80%;
