@@ -31,9 +31,10 @@
 
   }
   figure.section-image {
-    background: PaleVioletRed;
-    border: mediumvioletred
-    color: #ffffff;
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 32px;
+    max-width: 320px
   }
 
   p img{
