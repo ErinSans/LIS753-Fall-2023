@@ -1,7 +1,10 @@
-h1 {
+  h1#site-title {
     color: #3f51b5;
     font-family: verdana;
     text-align: center;
+  }
+  h1#article-title {
+    font-size: 48px
   }
   article {
     width: 800px
