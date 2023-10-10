@@ -28,7 +28,9 @@
 
   }
   figure.section-image {
-    
+    background: PaleVioletRed;
+    border: mediumvioletred
+    color: #ffffff;
   }
 
   p img{
