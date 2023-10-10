@@ -24,7 +24,13 @@
     height: auto;
     margin-bottom: 12px;
   }
-  
+  figure.main-image {
+
+  }
+  figure.section-image {
+    
+  }
+
   p img{
     float: right;
     max-width: 80%;
