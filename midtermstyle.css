@@ -19,5 +19,12 @@ figure img {
   height: auto;
   margin-bottom: 12px;
 }
+ p img{
+    float: right;
+    max-width: 80%;
+    height: auto;
+    margin-left: 20px;
+    margin-bottom: 32px;
+  }
 
 
