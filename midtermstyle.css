@@ -17,9 +17,10 @@ figure {
 }
 figure img { 
   float: right;
-  max-width: 100%;
+  margin-left: 20px;
+  max-width: 80%;
   height: auto;
-  margin-bottom: 12px;
+  margin-bottom: 20px;
 }
 
 
