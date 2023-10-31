@@ -5,9 +5,10 @@ h1#site-title {
 }
 h1#article-title {
   font-size: 30px;
-  text-align: left;
+  text-align: center;
 }
 article {
+  float: left;
   width: 800px;
 }
 figure {
@@ -15,16 +16,11 @@ figure {
   padding: 10px;
 }
 figure img { 
+  float: right;
   max-width: 100%;
   height: auto;
   margin-bottom: 12px;
 }
- p img{
-    float: right;
-    max-width: 80%;
-    height: auto;
-    margin-left: 20px;
-    margin-bottom: 32px;
-  }
+
 
 
