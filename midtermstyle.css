@@ -10,7 +10,7 @@ h1#article-title {
 }
 article {
   float: left;
-  width: 1000px;
+  width: 800px;
 }
 figure {
   border: 5px solid black;
