@@ -15,7 +15,7 @@ figure {
   border: 1px solid black;
   padding: 5px;
 }
-figure img { 
+figure.main-image { 
   float: right;
   margin-left: 20px;
   max-width: 80%;
