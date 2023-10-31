@@ -17,6 +17,9 @@ figure {
   padding: 10px;
 }
 figure.main-image { 
+  background: palevioletred;
+  border-color:mediumvioletred;
+  color: #ffffff
   float: right;
   margin-left: 20px;
   max-width: 100%;
