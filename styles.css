@@ -28,12 +28,16 @@
     margin-bottom: 12px;
   }
   figure.main-image {
+    max-width: 100%;
+    height: auto;
     background: palevioletred;
     border-color:mediumvioletred;
     color: #ffffff;
 
   }
   figure.section-image {
+    max-width: 100%;
+    height: auto;
     margin-bottom: 32px;
     max-width: 320px
   }
@@ -49,7 +53,7 @@
 
   p img{
     float: right;
-    max-width: 80%;
+    max-width: 100%;
     height: auto;
     margin-left: 20px;
     margin-bottom: 32px;
