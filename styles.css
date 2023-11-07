@@ -62,6 +62,12 @@ a {
     font-weight: bold;
     color: green;
 }
+@media all and (min-width: 376px) {
+  nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 30px:
+  }
 
 ul li a {
     text-decoration: none;
