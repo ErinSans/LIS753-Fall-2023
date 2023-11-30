@@ -1,6 +1,6 @@
 #message {
   background: #E9FFE4;
-  bodrer: 1px solid #178201;
+  border: 1px solid #178201;
   padding: 20px 40 px;
   margin: 12 px 0;
   border-radius: 4px;
@@ -10,6 +10,7 @@
 #message.dismissed {
   opacity: 0;
   height: 0;
+}
   h1#site-title {
     font-size: 48px;
     color: #3f51b5;
