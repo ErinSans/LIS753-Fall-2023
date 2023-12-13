@@ -1,6 +1,19 @@
+#message {
+  background: #E9FFE4;
+  border: 1px solid #178201;
+  padding: 20px 40 px;
+  margin: 12 px 0;
+  border-radius: 4px;
+  opacity: 1;
+  transition: opacity .2s ease;
+}
+#message.dismissed {
+  opacity: 0;
+  height: 0;
+}
 h1#site-title {
   font-size: 48px;
-  color: black;
+  color: #3f51b5;
   font-family: verdana;
   text-align: center;
 }
@@ -14,6 +27,7 @@ article {
 }
 figure {
   border: 1px;
+  float: right;
   color: solid black;
   padding: 10px;
 }
