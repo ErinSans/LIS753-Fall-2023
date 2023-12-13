@@ -1,14 +1,15 @@
 h1#site-title {
   font-size: 48px;
-  color: ;
+  color: black;
   font-family: verdana;
   text-align: center;
 }
 h1#article-title {
   font-size: 30px;
-  text-align: left;
+  text-align: center;
 }
 article {
+  float: left;
   width: 800px;
 }
 figure {
@@ -19,19 +20,15 @@ figure {
 figure img {
   max-width: 100%;
   height: auto;
-  background: purple;
 }
-@media all and (min-width:376 pc) {
-  nav ul {
-    display: flex;
-    jusitfy-content: center;
-    gap: 30px;
-  }
-  ul li a {
+ul li a {
     text-decoration: none;
-  }
-  ul li a:hover {
-    text-decoration: underline;
-  }
+}
+ul li a:hover {
+  text-decoration: underline;
+}
+footer {
+  height: 100px;
+}
 
   
